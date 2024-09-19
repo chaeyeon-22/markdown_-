@@ -32,4 +32,4 @@ markdown이란?
 
 [고려대학교](www.korea.ac.kr,"고려대학교 홈페이지입니다.")
 
-!
+![대표이미지](./image/1.jpg.jfif)
